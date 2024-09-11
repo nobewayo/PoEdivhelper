@@ -8,7 +8,7 @@ coordmode, Mouse, Screen
    Send {LControl Up}
    TradeDiv(600,654,733,744) ; Click on Trade
    CollectDiv(602,702,630,645)  ; CTRL Click result back to inventory
-   MouseBack(currentCursorX, currentCursorY) ; Move mouse back to upper left corner of inventory
+   MouseBack(currentCursorX, currentCursorY) ; Move mouse back
 }
 return
 
